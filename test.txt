@@ -1,1 +1,3 @@
-This is my first commitgit 
+This is my first commit git !
+
+Here is my second git commit !
